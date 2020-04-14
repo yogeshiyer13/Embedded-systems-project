@@ -1,0 +1,1 @@
+cmd_/home/root/EmbeddedLabs/project/video.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/root/EmbeddedLabs/project/video.ko /home/root/EmbeddedLabs/project/video.o /home/root/EmbeddedLabs/project/video.mod.o
