@@ -1,9 +1,5 @@
 Final Project - Mandelbrot Viewer
 
-By station 73 
-
-Diego Defaz(1004905132) and Yogesh Iyer(1005603438)
-
 Instructions:
 
 Go to the project folder using cd project
