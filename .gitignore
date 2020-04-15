@@ -1,0 +1,8 @@
+.video.o.cmd
+.video.ko.cmd
+.video.mod.o.cmd
+/.tmp_versions
+Module.symvers
+modules.order
+video.mod.c
+video.mod.o
