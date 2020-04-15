@@ -24,11 +24,7 @@ Also for the coordinates part please run the following: ./mandelbrot /dev/input/
 
 On Terminal window you can observe the mouse coordinates in complex space.
 
-The program Mandelbrot.c prints the complex coordinates where the mouse is in although it doesn’t show the zoom function at all in the VGA monitor. 
-The program Mandelbrot_old.c has the zoom with a factor of 2 but it doesn’t show the mouse coordinate in the complex space.
 
-Extras: 
-So we tried a lot stuff for the zoom part and we couldn't get the desired output that we had aimed for. 
 
 
 
