@@ -1,6 +1,6 @@
 # Final Project - Mandelbrot Viewer using DE1SoC
 
-Instructions:
+- Instructions:
 
 To compile we use the following code : gcc -Wall -o mandelbrot mandelbrot.c -lm -pthread 
 
@@ -14,7 +14,7 @@ We have two codes to show:
 
 After that we run the code using: ./mandelbrot_old /dev/input/mouse0
 
-Note: When pressing the mouse button keep it pressed for few seconds then only you'd be able to see the change in the VGA screen for zoom in and out.
+- Note: When pressing the mouse button keep it pressed for few seconds then only you'd be able to see the change in the VGA screen for zoom in and out.
 
 On Terminal window you can observe the mouse left, middle and right data being changed.
 
@@ -22,7 +22,7 @@ Also for the coordinates part please run the following: ./mandelbrot /dev/input/
 
 On Terminal window you can observe the mouse coordinates in complex space.
 
-Extras - 
+- Extras - 
 
 Final Project Report has also been attached to get to know more about the project.
 
