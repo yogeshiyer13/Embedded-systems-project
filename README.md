@@ -2,8 +2,6 @@ Final Project - Mandelbrot Viewer
 
 Instructions:
 
-Go to the project folder using cd project
-
 To compile we use the following code : gcc -Wall -o mandelbrot mandelbrot.c -lm -pthread 
 
 Insert the video driver using: insmod video.ko
