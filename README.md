@@ -1,4 +1,4 @@
-# Final Project - Mandelbrot Viewer using DE1SoC
+# Final Project - Mandelbrot Viewer using DE1SoC Board
 
 - Instructions:
 
