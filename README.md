@@ -26,7 +26,7 @@ Also for the coordinates part please run the following: ./mandelbrot /dev/input/
 On Terminal window you can observe the mouse coordinates in complex space.
 
 **Extras:**
-- Final Project Report has also been attached to get to know more about the project.
+- [Final Project Report](https://drive.google.com/file/d/1dkwd3aEwDjmG0-xR9eDcRPx4XfrU25Oe/view?usp=sharing) has also been attached to get to know more about the project.
 
 Mandelbrot set looks like this:
 
